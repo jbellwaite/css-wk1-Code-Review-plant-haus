@@ -8,7 +8,7 @@ header {
 }
 
 #logo {
-  font-size: 36px;
+  font-size: 46px;
   font-weight: bold;
 }
 
@@ -70,6 +70,7 @@ body {
   border: 3px solid rgba(255, 160, 147, 0.5);
   text-align: left;
   margin-right: 5%;
+  box-shadow: 10px 10px 5px #888888;
 }
 
 th {
@@ -79,6 +80,11 @@ th {
 
 tr:hover {
   background-color: #f5f5f5;
+  box-shadow: 2px 2px 5px #888888;
+}
+
+th::first-letter {
+  font-weight: bold;
 }
 
 caption {
@@ -106,6 +112,10 @@ caption {
   height: 240px;
   border: 2px solid rgba(255, 160, 147, 0.5);
   margin-left: 10px;
+}
+
+.small:hover {
+  box-shadow: 2px 2px 5px #888888;
 }
 
 .similarstrip {
