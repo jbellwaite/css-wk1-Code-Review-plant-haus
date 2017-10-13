@@ -17,15 +17,16 @@ A simple website made for Week 1 of Epicodus CSS track. The website showcases a 
 
 
 ### Specs
-| Spec | Input | Output |
-| :-------------     | :------------- | :------------- |
-| **Webpage** | Ping-Pong Game | Webpage with user input form |
-| **The program takes the number input by the user and returns a count, starting at 1. **| User Input: "4" | Output: "1,2,3,4" |
-| **The program replaces numbers divisible by 3 with the word “ping”.**| Input: "4" | Output: "1, 2, “ping”, 4" |
-| **The program replaces numbers divisible by 5 with the word “pong”.** | Input: "6" | Output: "1, 2, “ping", 4, “pong”, 6" |
-| **The program replaces numbers divisible by 15 are replaced with “ping-pong”.**| Input: "16" | Page Displays: 1, 2, “ping”, 4, “pong”, “ping”, 7, 8, “ping”, “pong”, 11, “ping”, 13, 14, 	“ping-pong”, 16|
-| **The user can enter a new number into the input field and see results over and over again.| Input: "3", "2" | Page Displays: 1,2, "ping" ; 1,2 |[[]
-'']
+| Spec                                                                                 | Input                         | Output                                                              |
+|--------------------------------------------------------------------------------------|-------------------------------|---------------------------------------------------------------------|
+| The website displays all required content as outlined in the Epicenter Code Review.  | No input required.            | Website displays all required content.                              |
+| The website uses at least one pseudo class.                                          | Mouse hovers over navigation. | A leaf appears next to the navigation item.                         |
+| The website uses at least one pseudo element.                                        | No input required.            | The first letter of each table header (th) is capitalized.          |
+| Use of three different types of selectors.                                           | No input required.            | Use of classes, IDs, and elements.                                  |
+| Appropriate elements are positioned using absolute and relative positioning.         | No input required.            | Table uses absolute positioning.                                    |
+| Gallery images make use of the float property.                                       | No input required.            | The gallery images are floated to the left.                         |
+| Elements use box-sizing:border-box:                                                  | No input required.            | The gallery images make use of the box-sizing:border-box.           |
+| Project is polished, portfolio-quality state.                                        | No input required.            | The project is styled with consistent colors and fonts throughout.  |
 
 ## Setup/Installation Requirements
 
