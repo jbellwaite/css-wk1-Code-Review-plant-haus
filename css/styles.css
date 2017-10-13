@@ -23,17 +23,11 @@ body {
   font-family: 'Raleway', sans-serif;
 }
 
-main {
-  position: relative;
-}
-
 .mainpic {
-  position: relative;
   padding-left: 10%;
 }
 
 .mainplant{
-  position: absolute;
   width: 50%;
 
 }
@@ -41,24 +35,55 @@ main {
   width: 100%;
 }
 
-#scientificname {
+.name {
   font-style: italic;
-text-align: center;
+  text-align: center;
+  font-weight: bold;
+}
+
+.price {
+  text-align: center;
+  font-style: normal;
 }
 
 #careinfo {
   position: absolute;
-  top: 80px;
-  right: 0;
-  width: 200px;
-  height: 100px;
-  border: 3px solid #73AD21;
+  top: 150px;
+  right: 30px;
+  width: 30%;
+  border: 3px solid #f5f5f5;
+  text-align: left;
+}
+
+th {
+  font-weight: lighter;
+  padding: 3px;
+}
+
+tr:hover {
+  background-color: #f5f5f5;
+}
+
+caption {
+  font-family: 'Megrim', cursive;
+  font-weight: bold;
+  background-color: rgba(162, 242, 210, 0.5);
+  padding: 10px;
+}
+
+.secondarypics {
+  border-top: 5px solid #f5f5f5;
+  text-align: center;
 }
 
 .smallpics {
-  position: relative;
+ display: inline-block;
+ padding 10%;
 }
 
-footer {
-  position: relative;
+.small {
+  width: 240px;
+  height: 240px;
+  border: 2px solid #f5f5f5;
+  margin: 10px;
 }
