@@ -70,7 +70,7 @@ body {
   border: 3px solid rgba(255, 160, 147, 0.5);
   text-align: left;
   margin-right: 5%;
-  box-shadow: 10px 10px 5px #888888;
+  box-shadow: 10px 10px 5px rgba(255, 160, 147, 0.3);
 }
 
 th {
