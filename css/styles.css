@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Megrim|Raleway');
+
+header {
+  font-family: 'Megrim', cursive;
+  background-color: rgba(162, 242, 210, 0.5);
+  padding: 20px;
+}
+
+#logo {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.header-right {
+  float:right;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+.mainpic {
+  position: relative;
+}
