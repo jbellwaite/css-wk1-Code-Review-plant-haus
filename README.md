@@ -1,13 +1,13 @@
 
 # Plant Haus, a Website
 
-#### A simple website made to complete a Code Review for Week 1 CSS track at Epicodus. Created 10/12/2017.
+#### A simple website made to complete a code review for week 1 CSS track at Epicodus. Created 10/12/2017.
 
 #### By **Jessie Waite**
 
 ## Description
 
-A simple website made for Week 1 of Epicodus CSS track. The website showcases a product for sale. In this case, the product is a plant. The website includes the following requirements:
+A simple website made for week 1 of Epicodus CSS track. The website showcases a product for sale. In this case, the product is a plant. The website includes the following requirements:
 
 * _Centered elements_
 * _One large image with an absolutely positioned table (used in lieu of a caption)_
