@@ -23,17 +23,27 @@ body {
   font-family: 'Raleway', sans-serif;
 }
 
+main {
+  position: relative;
+}
+
 .mainpic {
   position: relative;
   padding-left: 10%;
 }
 
+.mainplant{
+  position: absolute;
+  width: 50%;
+
+}
 #mainplant {
-  width: 40%;
+  width: 100%;
 }
 
 #scientificname {
   font-style: italic;
+text-align: center;
 }
 
 #careinfo {
@@ -43,4 +53,12 @@ body {
   width: 200px;
   height: 100px;
   border: 3px solid #73AD21;
+}
+
+.smallpics {
+  position: relative;
+}
+
+footer {
+  position: relative;
 }
